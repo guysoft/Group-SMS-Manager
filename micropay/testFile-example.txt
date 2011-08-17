@@ -1,0 +1,11 @@
+Array
+(
+    [get] => 1
+    [sms] => יופי
+    [code] => מאבק
+    [phone] => 0541234567
+    [net] => 11111
+    [cid] => 22222
+    [msgid] => 12345abcdefghijkc
+    [dest] => 012345678
+)
